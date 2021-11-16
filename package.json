@@ -1,0 +1,13 @@
+{
+  "name": "klankblokken-oefening",
+  "version": "1.0.0",
+  "description": "TDD exercise to classify words phonetically",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}

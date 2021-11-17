@@ -1,6 +1,10 @@
-# klankblokken-oefening
+# Klankblokken-oefening
 
-repository to classify words phonetically as a TDD exercise
+Repository to classify words phonetically as a TDD exercise
+
+## Instructions
+
+[See google docs](https://docs.google.com/document/d/1kkd3VJSFVxgIPs7Ebjw632eDPXJ6zHKbRiOMa-ErusE/)
 
 ## Prerequisites
 
